@@ -1,0 +1,37 @@
+{
+  "is_login": true,
+  "result": 0,
+  "reason": "",
+  "notice": [],
+  "data": {
+    "status": 1,
+    "version": { "data": { "safekit_version": "V3.4.28.0" } },
+    "protocol": [
+      { "text": "SSH", "key": 1 },
+      { "text": "RDP", "key": 2 },
+      { "text": "VNC", "key": 6 },
+      { "text": "TELNET", "key": 3 },
+      { "text": "FTP", "key": 4 },
+      { "text": "SFTP", "key": 5 },
+      { "text": "SCP", "key": 11 },
+      { "text": "Rlogin", "key": 12 }
+    ],
+    "list": [
+      {
+        "accountSize": 2,
+        "protocol": 1,
+        "address": "192.168.242.21",
+        "port": 22,
+        "name": "192.168.242.21",
+        "id": 1,
+        "department": "总部",
+        "loginAble": 1
+      }
+    ],
+    "total": 1,
+    "count": 1,
+    "page": "1",
+    "limit": "10",
+    "has_next": false
+  }
+}

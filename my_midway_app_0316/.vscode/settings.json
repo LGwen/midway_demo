@@ -1,0 +1,7 @@
+{
+  "debug.node.autoAttach": "on",
+  "debug.javascript.usePreviewAutoAttach": false,
+  "cSpell.words": [
+    "typeorm"
+  ]
+}
