@@ -62,6 +62,6 @@ docker pull mysql:5.7
 ```dockerfile
 docker run -d -p 3306:3306 --name mysql -e MYSQL_ROOT_PASSWORD=123456 -d mysql:5.7
 ```
-# mysql 初始化sql文件
-my_midway_app_0316/database/
+# mysql 初始化文件
+my_midway_app_0316/database/init.sql
 
