@@ -47,6 +47,7 @@ https://www.yuque.com/midwayjs/midway_v2/introduction
 https://www.yuque.com/midwayjs/midway_v2/decorator_index
 
 # mysql
+https://search.bilibili.com/all?keyword=mysql&from_source=webtop_search&spm_id_from=333.1007
 
 ```dockerfile
 docker pull mysql:5.7
